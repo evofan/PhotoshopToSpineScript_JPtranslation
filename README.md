@@ -1,0 +1,1 @@
+# PhotoshopToSpineScript_JPtranslation
