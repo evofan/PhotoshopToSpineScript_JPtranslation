@@ -1,5 +1,7 @@
 # PhotoshopToSpineScript_JPtranslation
 
+Spine Photoshop Tutorialの日本語訳
+
 ■Spine Photoshop Tutorial - Photoshop To Spine Script
 https://www.youtube.com/watch?v=p7yZET00GeE
 
