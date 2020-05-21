@@ -34,6 +34,8 @@ Photoshopのレイヤーはユニーク(＝一意、同じ名前のレイヤー�
 ##### 4:50  
 最初のエクスポート、書き出しUI上に様々な設定がある。  
 
+![https://github.com/evofan/PhotoshopToSpineScript_JPtranslation/blob/master/pic_pstosp1.png](https://github.com/evofan/PhotoshopToSpineScript_JPtranslation/blob/master/pic_pstosp1.png "image")  
+
 　□Ignore hidden layers  
 　　これをチェックすると、現在隠れている(非表示にされている)レイヤーは、書き出されない。  
 
@@ -131,7 +133,7 @@ JSONスケルトンファイルにエクスポートされるスキンをPhotosh
 スキンタグをフォルダーに追加すると、スケルトンに同じ名前のスキンが作成される。  
 フォルダー内のすべての画像がスキンに割り当てられる。  
 
-###### 10:00   
+###### 10:00  
 さらに、スクリプトは画像を同じ名前のフォルダーに書き込み、全てを綺麗に整頓する。  
 このメカニズムにより、別々のスキンのレイヤーに同じ名前を付ける事が出来る。  
 それらは別々のフォルダーにエクスポートされるため、競合はしない。  
@@ -141,6 +143,8 @@ JSONスケルトンファイルにエクスポートされるスキンをPhotosh
 ##### 10:26  
 対応するものがSpineに存在する場合、PhotoshopToSpineスクリプトはフォルダー又はレイヤーに適用された  
 描画モードを認識する。  
+
+![https://github.com/evofan/PhotoshopToSpineScript_JPtranslation/blob/master/pic_pstosp2.png](https://github.com/evofan/PhotoshopToSpineScript_JPtranslation/blob/master/pic_pstosp2.png "image")  
 
 現在、4つのオプションがサポートされている。  
 「ノーマル」は、Spineの標準ブレンドモードに対応する。  
